@@ -1,10 +1,10 @@
-## Hi there 👋
+## 🌸 Hi there! 🌸
 
 <!--
 **spaco22/spaco22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+  
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on WugHugs, a social media platform for your wug friends! 
+- 🌱 I’m currently learning how to make sourdough bread
+- 👯 I’m looking to collaborate on creating a Shopify store!
+- 🤔 I’m looking for help with [Make]([url](https://www.make.com/en)) to automate writing reports
+- 💬 Ask me about hiking the Pacific Crest Trail, Vipassana, or Bike Touring! 
+- 📫 How to reach me: paco.sofia22@gmail.com
+- 😄 Pronouns: she / her
+- ⚡ Fun fact: I love eating ramen with a little bit of ketchup, sriracha and lime! YUM!
