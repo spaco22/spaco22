@@ -21,9 +21,7 @@ Here are some ideas to get you started:
 ## A little bit about me
 
 - 🐛 I’m currently working on WugHugs, a social media platform for your wug friends! 
-- 🥖 I’m currently learning how to make sourdough bread
 - 🛍️ I’m looking to collaborate on creating a Shopify store!
-- 🤔 I’m looking for help with [Make]([url](https://www.make.com/en)) to automate writing reports
 - 💬 Ask me about:
     - 🗻 Hiking the Pacific Crest Trail
     - 🧘🏽‍♀️ Vipassana
@@ -33,7 +31,7 @@ Here are some ideas to get you started:
 
 
 - 📫 How to reach me: paco.sofia22@gmail.com
-I would love to collaborate!
+I would love to work together!
 
 ## 🛠️ Skills & Tools  
 ### **Languages**  
