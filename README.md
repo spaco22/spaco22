@@ -1,4 +1,4 @@
-## 🌸 Hi there! 🌸
+## 🌸 Hi there!
 
 <!--
 **spaco22/spaco22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### My name is Sofia. 
+### My name is Sofia. 🌸
 
 ### I am a biologist turned programmer with an interest in entrepeneurship.
+
+## A little bit about me
 
 - 🐛 I’m currently working on WugHugs, a social media platform for your wug friends! 
 - 🥖 I’m currently learning how to make sourdough bread
