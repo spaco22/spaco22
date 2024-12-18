@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### My name is Sofia. 
+
+### I am a biologist turned programmer with an interest in entrepeneurship.
+
 - 🐛 I’m currently working on WugHugs, a social media platform for your wug friends! 
 - 🥖 I’m currently learning how to make sourdough bread
 - 🛍️ I’m looking to collaborate on creating a Shopify store!
@@ -25,7 +29,7 @@ Here are some ideas to get you started:
     - 🚴🏽‍♀️ Bike Touring! 
 - 📫 How to reach me: paco.sofia22@gmail.com
 - 👯‍♀️ Pronouns: she / her
-- 🕷️ Fun fact: I have three tarantulas named Charlotte (Brachypelma smithii , Charlie (B. auratum), and Emilia (B. emilia). 
+- 🕷️ Fun fact: I have three tarantulas named Charlotte (Brachypelma smithii) , Charlie (B. auratum), and Emilia (B. emilia). 
 
 ## 🛠️ Skills & Tools  
 ### **Languages**  
@@ -34,7 +38,7 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### **Frameworks & Tools**  
+### **Frameworks**  
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
