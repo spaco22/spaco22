@@ -1,4 +1,4 @@
-## 🌸 Hi there!
+## 🌸 Hi there! 🌸
 
 <!--
 **spaco22/spaco22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### My name is Sofia. 🌸
-
+### My name is Sofia. 
 ### I am a biologist turned programmer with an interest in entrepeneurship.
 
 ## A little bit about me
@@ -29,9 +28,12 @@ Here are some ideas to get you started:
     - 🗻 Hiking the Pacific Crest Trail
     - 🧘🏽‍♀️ Vipassana
     - 🚴🏽‍♀️ Bike Touring! 
-- 📫 How to reach me: paco.sofia22@gmail.com
 - 👯‍♀️ Pronouns: she / her
-- 🕷️ Fun fact: I have three tarantulas named Charlotte (Brachypelma smithii) , Charlie (B. auratum), and Emilia (B. emilia). 
+- 🕷️ Fun fact: I have three tarantulas named Charlotte (Brachypelma smithii) , Charlie (B. auratum), and Emilia (B. emilia).
+
+
+- 📫 How to reach me: paco.sofia22@gmail.com
+I would love to collaborate!
 
 ## 🛠️ Skills & Tools  
 ### **Languages**  
