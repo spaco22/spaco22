@@ -15,14 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on WugHugs, a social media platform for your wug friends! 
-- 🌱 I’m currently learning how to make sourdough bread
-- 👯 I’m looking to collaborate on creating a Shopify store!
+- 🐛 I’m currently working on WugHugs, a social media platform for your wug friends! 
+- 🥖 I’m currently learning how to make sourdough bread
+- 🛍️ I’m looking to collaborate on creating a Shopify store!
 - 🤔 I’m looking for help with [Make]([url](https://www.make.com/en)) to automate writing reports
-- 💬 Ask me about hiking the Pacific Crest Trail, Vipassana, or Bike Touring! 
+- 💬 Ask me about:
+    - 🗻 Hiking the Pacific Crest Trail
+    - 🧘🏽‍♀️ Vipassana
+    - 🚴🏽‍♀️ Bike Touring! 
 - 📫 How to reach me: paco.sofia22@gmail.com
-- 😄 Pronouns: she / her
-- ⚡ Fun fact: I love eating ramen with a little bit of ketchup, sriracha and lime! YUM!
+- 👯‍♀️ Pronouns: she / her
+- 🕷️ Fun fact: I have three tarantulas named Charlotte (Brachypelma smithii , Charlie (B. auratum), and Emilia (B. emilia). 
 
 ## 🛠️ Skills & Tools  
 ### **Languages**  
